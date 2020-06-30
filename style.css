@@ -44,6 +44,8 @@ p{
 .dream-area{
     background-image: url(image/dream-bg.png);
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: right
 }
-
+.experiance-area{
+    height: 500px;
+}
