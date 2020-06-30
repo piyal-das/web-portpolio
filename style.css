@@ -47,5 +47,28 @@ p{
     background-position: right
 }
 .experiance-area{
-    height: 500px;
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    height:500px;
+}
+.single{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    height:80%;
+    background-color: white;
+}
+#matha-nosto{
+    border-left:7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice:1;
+}
+#topic{
+    border-left: 7px double;
+    border-image: linear-gradient(180deg, green, aqua);
+    border-image-slice:1;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
 }
